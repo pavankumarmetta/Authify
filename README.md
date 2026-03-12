@@ -182,5 +182,3 @@ Through this project I gained hands-on experience with:
 - Managing authentication state in frontend using React Context
 
 ---
-
-> Built with ❤️ using Spring Boot & React
